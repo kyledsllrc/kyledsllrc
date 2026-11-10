@@ -1,10 +1,13 @@
 <div align="center">
 
-# DevilNamedKyle ⚡
-### Python Developer & Bot Builder 🐍 | Codespaces Tinkerer
+<h1>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> 
+  DevilNamedKyle ⚡
+</h1>
+
+<p><em>Python Developer & Bot Builder 🐍 | Codespaces Tinkerer</em></p>
 
 </div>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
