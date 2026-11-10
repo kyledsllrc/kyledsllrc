@@ -5,6 +5,10 @@
   DevilNamedKyle ⚡
 </h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyledsllrc/kyledsllrc/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 <p><em>Python Developer & Bot Builder 🐍 | Codespaces Tinkerer</em></p>
 
 </div>
