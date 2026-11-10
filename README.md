@@ -8,7 +8,6 @@
 <p><em>Python Developer & Bot Builder 🐍 | Codespaces Tinkerer</em></p>
 
 </div>
----
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
