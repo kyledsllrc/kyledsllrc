@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kyledsllrc/kyledsllrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DevilNamedKyle ⚡
+### Python Developer & Bot Builder 🐍 | Codespaces Tinkerer
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,git,github,vscode" alt="Tech Stack" />
+</p>
+
+- **Primary Language:** Python (`discord.py`) & TypeScript
+- **Environment:** GitHub Codespaces & Self-hosted utilities
+- **Focus:** Discord Bots, Automation, & Web Tools
+
+---
+
+### 🚀 Featured Projects
+- **[uwu-bot](https://github.com/kyledsllrc/uwu-bot):** Custom-featured Python Discord bot automation.
+- **[D14Damon](https://github.com/kyledsllrc/D14Damon):** TypeScript application repository.
+- **[DamonQuiz](https://github.com/kyledsllrc/DamonQuiz):** Interactive TypeScript web tools.
+
+---
+
+### 📫 Connect with Me
+- **Orcid:** [0009-0006-6622-4471](https://orcid.org/0009-0006-6622-4471)
+- **Email:** franklinkyleluzano@gmail.com
